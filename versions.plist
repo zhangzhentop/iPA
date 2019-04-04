@@ -8,14 +8,8 @@
 	</array>
 	<key>1.1.0</key>
 	<array>
-		<string>NEW: Added  new snoodlebar feature</string>
-		<string>FIX: Fixed the bugalloo glitch</string>
-	</array>
-	<key>1.1.1</key>
-	<array>
-		<string>NEW: Some important feature</string>
-		<string>FIX: Some important bug fix</string>
-		<string>CHANGE: Some significant change</string>
+		<string>1、修改主界面UI</string>
+		<string>2、修改登录流程</string>
 	</array>
 </dict>
 </plist>
